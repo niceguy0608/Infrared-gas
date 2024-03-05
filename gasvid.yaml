@@ -1,0 +1,8 @@
+train: E:\桌面文件\小毕设\ultralytics-main\css-data\train\images\
+val: E:\桌面文件\小毕设\ultralytics-main\css-data\valid\images\
+test: E:\桌面文件\小毕设\ultralytics-main\css-data\test\images\
+
+
+nc: 1
+
+names: ['gas']
